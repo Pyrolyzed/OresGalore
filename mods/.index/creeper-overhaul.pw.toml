@@ -1,0 +1,14 @@
+name = "Creeper Overhaul"
+filename = "creeperoverhaul-2.0.5-forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "8faace72e97ebf2ad21dd1096ca01cfb393d2db2"
+
+[update]
+[update.curseforge]
+file-id = 4063098
+project-id = 561625

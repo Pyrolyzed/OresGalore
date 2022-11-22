@@ -1,0 +1,14 @@
+name = "FTB Ultimine (Forge)"
+filename = "ftb-ultimine-forge-1902.3.5-build.65.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "fb53dd2e348652ee8074964492bc9fb64667c9d7"
+
+[update]
+[update.curseforge]
+file-id = 3993549
+project-id = 386134

@@ -1,0 +1,14 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-Forge-1.19.2-13.0.9.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1c4f217cda3bcf4014584c959d86befbb2ea8302"
+
+[update]
+[update.curseforge]
+file-id = 4102071
+project-id = 250419

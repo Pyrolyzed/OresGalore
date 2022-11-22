@@ -1,0 +1,14 @@
+name = "Equipment Compare"
+filename = "EquipmentCompare-1.19.1-1.3.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "bccdabd3bbd13356de419530808e66e98459df94"
+
+[update]
+[update.curseforge]
+file-id = 3907090
+project-id = 502561

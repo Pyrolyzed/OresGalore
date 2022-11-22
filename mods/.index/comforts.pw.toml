@@ -1,0 +1,14 @@
+name = "Comforts (Forge)"
+filename = "comforts-forge-6.0.2+1.19.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5b8d185e6e72d27c77bc2620ed899458d2d9c218"
+
+[update]
+[update.curseforge]
+file-id = 4019558
+project-id = 276951

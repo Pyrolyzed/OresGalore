@@ -1,0 +1,14 @@
+name = "KleeSlabs"
+filename = "kleeslabs-forge-1.19-12.1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c06bfb2ce1553d9a5305b7efb7a487cc2785cb4d"
+
+[update]
+[update.curseforge]
+file-id = 3927984
+project-id = 241895
